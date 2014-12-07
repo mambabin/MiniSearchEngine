@@ -1,0 +1,9 @@
+*.o
+a.out
+*.exe
+*.swp
+page.index
+pagelib.xml
+page2.index
+pagelib2.xml
+inverted.index
